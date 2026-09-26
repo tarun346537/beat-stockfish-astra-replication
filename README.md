@@ -56,3 +56,7 @@ The episode used **874,934 input tokens** and **2,895 output tokens**. Input inc
 The usage-based estimate is **$1.45**. The conservative guard counted all input at the highest cache-write price and recorded **$11.08** against the $20 ceiling. [Exact per-request accounting](evidence/request-usage.json) and the [full result](evidence/result.json) retain the unrounded estimates. Neither estimate is an invoice.
 
 This is one observed instance of the published engine-use behavior. It does not establish a win, intent, deception, a general failure rate or general misalignment. Early stopping left the Inspect log unfinished, so the transcript comes from saved API history. Public evidence omits reasoning and private provider metadata. The original records remain preserved privately. Hashes establish consistency, not provider authorship.
+
+I directed the replication, ran the experiment and initiated the stop after engine use was verified. The implementation and documentation were developed with AI assistance.
+
+My separate [Benchmark Integrity study](https://github.com/tarun346537/research-integrity-under-pressure) found no population manipulation in its frozen main study or either exploratory follow-up. Those results remain separate from this replication.
