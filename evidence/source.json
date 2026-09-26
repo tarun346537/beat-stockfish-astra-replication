@@ -1,0 +1,36 @@
+{
+  "repository_commit": "2fe51b6239a6dca70abfd70aca528ff4a0b3c3bf",
+  "tracked_files_sha256": {
+    ".dockerignore": "effd742e354ac00e21c7ba2186657ced7c500c9262a8d1a8d2bd18fe6c8ff276",
+    ".gitignore": "cf10dd27be3c4f348b7e7ad21184418964fe9c325bd71d06bd5aadc945016897",
+    "Dockerfile": "c7c147f641f6ec5703336d5e6645fa7ea690ed2c35c239c1ca5ee69b0fd3def9",
+    "EXPORT.json": "afb9a022169b7ccb3ec137c98a97acb843476e90cca7f0336affe848cefc04b4",
+    "README.md": "21453a78f3ca30136fe2d7c6600839aaedff855a3049816c3c095bc61c705526",
+    "bases/beat-stockfish/Dockerfile": "9cc545427d60bc7be6cffdbf2e0c430a75a61a38704c4b6253b5507f2b2bcd45",
+    "bases/beat-stockfish/opponent-engine.socket": "198c757e0587c7c1a46e7422688b3c3066da30a38e615ec1635047324056bd5d",
+    "bases/beat-stockfish/opponent-engine@.service": "8046b542ade07a38a87eff203a3522535087c6b646aaf34026797cf6c1a80347",
+    "bases/inspect-runner/Dockerfile": "f32ade09aba4b436085f3fa238a2888889afcb8c10c73957aa8f9e046e622ee4",
+    "bases/inspect-runner/shim-src/run_grader.py": "aef3d03e14446cbb94e93e7232f46176a0bc8ebe6bd51b55f4ee0c99cb974aef",
+    "bases/workstation/Dockerfile": "3e3e1769335e92eabbe1efd48592254a093e7ce94fa04ae71ed606e73f5d2060",
+    "build.sh": "02ab4f37afc00b970dd663675ce0d8df3eb63e9d07b2d8fc1adbb87edfaf4ead",
+    "docs/EXPERIMENTS.md": "e37ce6820c9a4fce892b91aab1b367290e6b65efc5adc70df1f24408d13fc88e",
+    "docs/transcripts.zip": "f77960b0bd343642befe04b20b330bab0d4036104d0cc5d702f0fbc29a28e498",
+    "generated/runtime-variants.json": "274d5860f3fd4c2c0765b5d69b76f6fcb68cbc7b3fc3fff3afa3f3cd1066907a",
+    "generated/taskname.txt": "caed8d379e86f8b5335986582da185729b57ce837e19e2857d1e796d0268ed86",
+    "grader/grader.py": "360d61e485f678d7b29ee1d332c60414c7ccbe923cba07cdf53315c2372332ca",
+    "grader/submission_contract.py": "f92ef97ef38ebdfdd2b5115efe529f543c3c483db599fe12ec7b1f96749a582c",
+    "run/env.json": "0b1e2eb6273badb99c1fab5d10c3a23960f6d38657f09ebc27d48e6227369ac2",
+    "run/requirements.txt": "3d7f83f12f747e989ba4819e45224689db9d1fa2abcf2d697ba952ff57ed174c",
+    "run/rollout.py": "7e5d4067702f7b6b7cfc7bc9f7bd2e6e30a9fd9452623cf2f835744348e7fc7d",
+    "task.py": "c1cf14549ed9d32c4717739d0c99b4cbeea912364287e482f47aae1e6fadd026",
+    "task_assets/arena.py": "9209cae9bedc87fb24d4632d363fa196a6b126a9e205eb573ed770b311899f9f",
+    "task_assets/matchd.py": "704229e8676b802df09e03d61a5ef36b41b96479537a5a3238149e6fef0bb891"
+  },
+  "adapter_files_sha256": {
+    "replicate_one.py": "afb797a1372c783584732108cc76a2ec3b41540ff2a8d4c2c972e021679e6a50",
+    "astra_model.py": "07e9a2ddeec112a8bcb15a81216cacf663b89a4627425c1ad059279a3dd3c558",
+    "budget_guard.py": "56b706729f396fccc0ca5e479a14855b5762211682f32d0129f5ad21b40356f6",
+    "evidence.py": "464d6f3278a7aa29c8dc56618cbfabd354403f41c428a0f9d2ec629e552195a5"
+  },
+  "executed_source_sha256": "a7020d224af8cf318463516c024eb74ce1b85bfdba16eda3190b0830e9a6fa5e"
+}

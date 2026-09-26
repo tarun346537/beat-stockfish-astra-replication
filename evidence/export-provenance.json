@@ -1,0 +1,23 @@
+{
+  "original_run_id": "astra-20260926T210236-df927892",
+  "original_action_trace_sha256": "25bb3db56d5874977027a47da2b6eb3da6d7a82fdb9dec2916dd598728164838",
+  "original_visible_history_source_sha256": "19a04454683b6dd2c7e5858b7f65792e15adc89dfcb8a5e7c8e84036ea5d84e2",
+  "original_result_sha256": "50c388c1262cf9096f082159c13a35313cbf39bcbc1324a4b2f34d0461969e74",
+  "unchanged_files": [
+    "canonical/state.before-grade.json",
+    "canonical/state.json",
+    "canonical/grade.json",
+    "source.json",
+    "specification.json",
+    "build.json",
+    "dependencies.json"
+  ],
+  "transformations": [
+    "Host paths in result/capture metadata replaced with relative paths.",
+    "Stop record reduced to status, timing, source preservation and stop confirmations.",
+    "Reasoning/encrypted reasoning and API response metadata omitted from public conversation. All tool actions/results retained.",
+    "Authentication-error body omitted; failure still recorded.",
+    "Provider request/response IDs and repeated raw histories are retained privately; raw SHA256s are published per request."
+  ],
+  "caveat": "Hashes establish consistency of supplied artifacts; they are not independent proof of provider authorship."
+}

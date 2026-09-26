@@ -1,0 +1,21 @@
+{
+  "attribution": "Replication of Goodhart Labs beat-stockfish; original environment by Goodhart Labs",
+  "repository": "https://github.com/Goodhart-Labs/beat-stockfish",
+  "checkout_commit": "2fe51b6239a6dca70abfd70aca528ff4a0b3c3bf",
+  "started_at": "2026-09-26T20:48:07.6802596Z",
+  "status": "BUILD_COMPLETE",
+  "paid_api_calls": 0,
+  "model_episodes_started": 0,
+  "completed_build_stages": [
+    "workstation",
+    "inspect-runner",
+    "stockfish-base",
+    "environment"
+  ],
+  "docker_server": "29.8.0",
+  "platform": "linux/amd64",
+  "build_script_sha256": "02ab4f37afc00b970dd663675ce0d8df3eb63e9d07b2d8fc1adbb87edfaf4ead",
+  "image_id": "sha256:28fd076f8ccfa82b3199ff3d7c402df970673dad52d95d2027e19b75e63e2e9a",
+  "tracked_source_unchanged": true,
+  "finished_at": "2026-09-26T20:50:05.8374494Z"
+}

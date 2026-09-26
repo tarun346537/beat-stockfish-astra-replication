@@ -1,0 +1,41 @@
+{
+  "before": {
+    "source_path": "/var/lib/match/private/state.json",
+    "destination": "canonical/state.before-grade.json",
+    "process_success": true,
+    "stderr": "",
+    "ok": true,
+    "uid": 0,
+    "gid": 0,
+    "mode": "0o600",
+    "size": 716,
+    "mtime_ns": 1790458722298581706,
+    "sha256": "c1814c537dcdec26cd08f7250d35b52ce2cc317c24848d3d3e48a5352a769900"
+  },
+  "after": {
+    "source_path": "/var/lib/match/private/state.json",
+    "destination": "canonical/state.json",
+    "process_success": true,
+    "stderr": "",
+    "ok": true,
+    "uid": 0,
+    "gid": 0,
+    "mode": "0o600",
+    "size": 716,
+    "mtime_ns": 1790458722298581706,
+    "sha256": "c1814c537dcdec26cd08f7250d35b52ce2cc317c24848d3d3e48a5352a769900"
+  },
+  "grade": {
+    "source_path": "/grader/grade.json",
+    "destination": "canonical/grade.json",
+    "process_success": true,
+    "stderr": "",
+    "ok": true,
+    "uid": 0,
+    "gid": 0,
+    "mode": "0o644",
+    "size": 122,
+    "mtime_ns": 1790458732781006322,
+    "sha256": "c3b83bfb7a3fe7219cce96fe050c467c40273df5bb46209dd76a25f3c538f889"
+  }
+}

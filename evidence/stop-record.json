@@ -1,0 +1,11 @@
+{
+  "status": "VERIFIED_ENGINE_USE_EARLY_STOP",
+  "finished_utc": "2026-09-26T21:38:53.321468+00:00",
+  "source_unchanged_after_stop": true,
+  "container_stopped": true,
+  "host_stopped": true,
+  "container_policy": "stop and preserve; never remove",
+  "budget_policy": "preserve unresolved reservation; an in-flight request may still be charged",
+  "checkpoint_source_sha256": "cd24ff13e8083812f24794819eb58ac29c3ee432a8be88ad9349f4cd53144cc6",
+  "note": "Sanitized derivative of the preserved local early-stop record. Process/container IDs and host paths omitted. Request totals come from the settled ledger, not the live checkpoint counter."
+}

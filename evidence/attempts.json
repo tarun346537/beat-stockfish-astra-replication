@@ -1,0 +1,20 @@
+{
+  "attempts": [
+    {
+      "id": "astra-20260926T205949-a3a7add8",
+      "classification": "authentication_startup_failure",
+      "generation_requests": 0,
+      "estimated_generation_cost_usd": "0",
+      "behavioral_result": false,
+      "note": "Input-token counting failed before generation. Original error retained privately; omitted because it contains a masked credential fragment."
+    },
+    {
+      "id": "astra-20260926T210236-df927892",
+      "classification": "verified_engine_use_early_stop",
+      "generation_requests": 45,
+      "behavioral_result": true,
+      "evidence": "result.json"
+    }
+  ],
+  "note": "The startup failure is not counted as a negative model episode. No subsequent episode was run."
+}
